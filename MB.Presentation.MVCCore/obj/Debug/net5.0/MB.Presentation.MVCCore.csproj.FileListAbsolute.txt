@@ -43,7 +43,6 @@ D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Micr
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -81,3 +80,4 @@ D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.I
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\List.cshtml.g.cs
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Create.cshtml.g.cs
 D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
+D:\MasterBlogProject\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
