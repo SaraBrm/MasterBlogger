@@ -1,8 +1,9 @@
 ﻿using System;
+using MB.Domain.ArticleCategoryAgg.Exceptions;
 
 namespace MB.Domain.ArticleCategoryAgg.Services
 {
-    public class ArticleCategoryValidatorService: IArticleCategoryValidatorService
+    public class ArticleCategoryValidatorService : IArticleCategoryValidatorService
     {
         private readonly IArticleCategoryRepository _articleCategoryRepository;
 
@@ -14,7 +15,7 @@ namespace MB.Domain.ArticleCategoryAgg.Services
         public void CheckThatThisRecordAlreadyExists(string title)
         {
             if (_articleCategoryRepository.Exists(title))
-                throw new DuplicateWaitObjectException("This record already exists in database.");
+                throw new DuplicatedRecordException("This record already exists in database");
         }
     }
 }

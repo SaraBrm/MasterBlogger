@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace MB.Domain.ArticleCategoryAgg
 {
@@ -9,5 +10,6 @@ namespace MB.Domain.ArticleCategoryAgg
         ArticleCategory Get(long id);
         void Save();
         bool Exists(string title);
+        
     }
 }
