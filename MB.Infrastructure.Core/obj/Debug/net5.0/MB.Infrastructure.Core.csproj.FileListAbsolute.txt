@@ -19,3 +19,5 @@ D:\MasterBlogProject\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.In
 D:\MasterBlogProject\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.dll
 D:\MasterBlogProject\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
 D:\MasterBlogProject\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
+D:\MasterBlogProject\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+D:\MasterBlogProject\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb

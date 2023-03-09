@@ -35,7 +35,27 @@
       "ProjectGuid": "f35ef9e9-8a5a-4c72-afc7-3cee5e8cdfea",
       "DisplayName": "MB.Infrastructure.Core",
       "ColorIndex": 5
+    },
+    "54662832-9716-43e5-b2c6-0f919f90cb5a": {
+      "ProjectGuid": "54662832-9716-43e5-b2c6-0f919f90cb5a",
+      "DisplayName": "MB.Infrastructure.Query",
+      "ColorIndex": 6
+    },
+    "8e634452-3d61-4396-afdd-01d04bcb5f76": {
+      "ProjectGuid": "8e634452-3d61-4396-afdd-01d04bcb5f76",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 7
+    },
+    "33782423-092c-4e9f-ad96-d42fa3e63841": {
+      "ProjectGuid": "33782423-092c-4e9f-ad96-d42fa3e63841",
+      "DisplayName": "MB.Presentation.MVCCore2",
+      "ColorIndex": 8
+    },
+    "e5abb43f-4327-41ef-8fd5-e3ee4cef106c": {
+      "ProjectGuid": "e5abb43f-4327-41ef-8fd5-e3ee4cef106c",
+      "DisplayName": "MB.Presentation.MVCCore",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }
